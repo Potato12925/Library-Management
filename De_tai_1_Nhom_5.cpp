@@ -3,7 +3,7 @@
 #define MAXSACH 1000
 // 1 2 3
 using namespace std;
-
+//cho Tai
 struct DanhMucSach {
     int masach;
     int trangthai;
